@@ -43,3 +43,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Dev Helper files
+/_DevHelper/
+
+# Environment files
+.env
